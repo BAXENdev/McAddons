@@ -1,0 +1,17 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.melon_golem.walk": {
+			"loop": true,
+			"animation_length": 0.8,
+			"bones": {
+				"legs": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.8": [360, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}

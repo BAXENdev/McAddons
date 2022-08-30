@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Adds a new mob to the game that is better than the snow golem in every way, so they hate each other.",
+        "name": "Melon Golem BP3 Test",
+        "uuid": "ab2430b4-d299-4a40-9de8-85d4d466c6c8",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 16, 100 ]
+    },
+    "modules": [
+        {
+            "description": "Adds a new mob to the game that is better than the snow golem in every way, so they hate each other.",
+            "type": "data",
+            "uuid": "e078d77d-a6b9-4087-ba15-23b21d1577ad",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "6bafc994-42b4-40e4-8d19-92523c00cb29",
+            "version": [0, 0, 1]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Outlines ore textures to make them distinct from surrounding blocks.",
+        "name": "Highlighted Ore Textures",
+        "uuid": "2784dc1b-bee6-43eb-8563-529be1077e73",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 16, 100 ]
+    },
+    "modules": [
+        {
+            "description": "Outlines ore textures to make them distinct from surrounding blocks.",
+            "type": "resources",
+            "uuid": "05cbd1a1-ee4b-477d-b84f-b2763fb98bb3",
+            "version": [1, 0, 0]
+        }
+    ]
+}

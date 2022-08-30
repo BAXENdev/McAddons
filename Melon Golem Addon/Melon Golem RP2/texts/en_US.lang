@@ -1,0 +1,5 @@
+pack.name=Melon Golem RP
+pack.description=Adds a new mob to the game that is better than the snow golem in every way, so they hate each other.
+
+tile.baxmg:carved_melon.name=Carved Melon
+entity.baxmg:melon_golem.name=Melon Golem

@@ -1,0 +1,24 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:client_entity":{
+        "description": {
+            "identifier": "baxmg:melon_golem",
+            "min_engine_version": "1.16.100",
+            "materials": {"default": "spider"},
+            "textures": {
+                "default": "textures/entity/melon_golem/melon_golem"
+            },
+            "geometry": {
+                "default": "geometry.melon_golem"
+            },
+            "animations": {
+                "walk": "melon_golem.animation.walk"
+            },
+            "render_controllers": [ "controller.render.melon_golem" ],
+            "spawn_egg": {
+                "texture": "spawn_egg",
+                "texture_index": 2
+            }
+        }
+    }
+}

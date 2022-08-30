@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Adds a new mob to the game that is better than the snow golem in every way, so they hate each other.",
+        "name": "Melon Golem RP",
+        "uuid": "6bafc994-42b4-40e4-8d19-92523c00cb29",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 16, 100 ]
+    },
+    "modules": [
+        {
+            "description": "Adds a new mob to the game that is better than the snow golem in every way, so they hate each other.",
+            "type": "resources",
+            "uuid": "92e00dcb-ac1e-456a-b3e8-65418501f31c",
+            "version": [0, 0, 1]
+        }
+    ]
+}

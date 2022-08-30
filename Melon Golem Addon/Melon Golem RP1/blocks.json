@@ -1,0 +1,13 @@
+{
+    "baxmg:carved_melon": {
+        "sound": "wood",
+        "textures": {
+            "north": "carved_melon_side",
+            "east": "carved_melon_side",
+            "south": "carved_melon_side",
+            "west": "carved_melon_face",
+            "up": "carved_melon_top",
+            "down": "carved_melon_top"
+        }
+    }
+}

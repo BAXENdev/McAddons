@@ -1,0 +1,16 @@
+{
+    "num_mip_levels" : 4,
+    "padding" : 8,
+    "resource_pack_name" : "vanilla",
+    "texture_data" : {
+        "carved_melon_face": {
+            "textures": "textures/blocks/melon_face_off"
+        },
+        "carved_melon_side": {
+            "textures": "textures/blocks/melon_side"
+        },
+        "carved_melon_top": {
+            "textures": "textures/blocks/melon_top"
+        }
+    }
+}
